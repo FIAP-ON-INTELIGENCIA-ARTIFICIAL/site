@@ -242,7 +242,7 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
 ## 📧 Contato
 
-AdaTuring - [@AdaTuring](https://github.com/AdaTuring) - contato@adaturing.com
+AdaTuring - [@AdaTuring](https://github.com/AdaTuring) - contato@henriquesilva.dev
 
 Link do Projeto: [https://github.com/AdaTuring/landing-page](https://github.com/AdaTuring/landing-page)
 
