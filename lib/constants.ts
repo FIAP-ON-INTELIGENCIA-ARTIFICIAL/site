@@ -15,7 +15,7 @@ export const FALLBACK_PROJECTS = [
     description: 'App acadêmico – cálculos agrícolas e IA.',
     url: 'https://github.com/FIAP-ON-INTELIGENCIA-ARTIFICIAL/agrovision',
     stars: 0,
-    language: ['Python', 'R'],
+    language: 'Python',
   },
 ];
 
