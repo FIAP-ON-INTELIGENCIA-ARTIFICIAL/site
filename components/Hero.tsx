@@ -64,15 +64,6 @@ export default function Hero() {
             Junte-se ao time
           </button>
         </div>
-
-        {/* Indicador de Scroll */}
-        <button
-          onClick={() => scrollToSection('projetos')}
-          className="absolute bottom-8 left-1/2 transform -translate-x-1/2 text-primary hover:text-secondary transition-colors duration-300 animate-bounce focus:outline-none focus:ring-4 focus:ring-primary/20 rounded-full p-2"
-          aria-label="Rolar para a seção de projetos"
-        >
-          <ChevronDown className="h-8 w-8" />
-        </button>
       </div>
     </header>
   );
