@@ -22,6 +22,12 @@ export const FALLBACK_PROJECTS = [
 // Dados dos membros do time
 export const TEAM_MEMBERS = [
   {
+    name: "Ana Cristina",
+    role: "Tutora e Mentora",
+    avatarUrl: "https://github.com/anacrissantos.png?auto=compress&cs=tinysrgb&w=400&h=400&fit=crop",
+    github: "https://github.com/anacrissantos"
+  },
+  {
     name: "Sabrina Otoni",
     role: "Tutora e Mentora",
     avatarUrl: "https://github.com/SabrinaOtoni.png?auto=compress&cs=tinysrgb&w=400&h=400&fit=crop",
@@ -30,7 +36,7 @@ export const TEAM_MEMBERS = [
   },
   {
     name: "Henrique Silva",
-    role: "PM/PO (Product Lead)",
+    role: "Desenvolvedor Full Stack",
     avatarUrl: "https://github.com/henriquehsilva.png?auto=compress&cs=tinysrgb&w=400&h=400&fit=crop",
     github: "https://github.com/henriquehsilva",
     linkedin: "https://linkedin.com/in/henriquesilvadev",
