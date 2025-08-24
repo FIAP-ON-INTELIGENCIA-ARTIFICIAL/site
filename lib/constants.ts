@@ -38,16 +38,15 @@ export const TEAM_MEMBERS = [
   {
     name: "Carlos Henrique",
     role: "Desenvolvedor Full Stack",
-    avatarUrl: "./xavier.jpeg?auto=compress&cs=tinysrgb&w=400&h=400&fit=crop",
-    github: "",
+    avatarUrl: "./xavier.jpeg?auto=compress&cs=tinysrgb&w=400&h=400&fit=crop",    
     linkedin: "https://www.linkedin.com/in/carlos-xavier-5595aa225/",
   },
   {
     name: "Manoella Weiser",
     role: "Desenvolvedor Full Stack",
     avatarUrl: "./manoella.jpg?auto=compress&cs=tinysrgb&w=400&h=400&fit=crop",
-    github: "",
-    linkedin: "",
+    github: "https://github.com/manoellaweiser-gif",
+    linkedin: "https://www.linkedin.com/in/manoella-weiser-07110315a/",
   },
   {
     name: "João Paiva",
