@@ -118,6 +118,20 @@ export const TEAM_MEMBERS = [
     linkedin: "https://www.linkedin.com/in/sabrina-santos-78870524/",
   },
   {
+    name: "Roberson Pedrosa",
+    role: "Desenvolvedor Full Stack",
+    avatarUrl: "https://github.com/RobPedrosa29.png?auto=compress&cs=tinysrgb&w=400&h=400&fit=crop",
+    github: "https://github.com/RobPedrosa29",
+    linkedin: "https://www.linkedin.com/in/roberson-pedrosa-304ab523a",
+  },
+  {
+    name: "Rodrigo Frederico",
+    role: "Desenvolvedor Full Stack",
+    avatarUrl: "./frederico.png?auto=compress&cs=tinysrgb&w=400&h=400&fit=crop",
+    github: "https://github.com/rodrigofred",
+    linkedin: "https://www.linkedin.com/in/rodrigo-frederico-lucena-moreira-7b608134a/",
+  },
+  {
     name: "Codex GPT",
     role: "Agente de engenharia de software",
     avatarUrl: "./codex.png?auto=compress&cs=tinysrgb&w=400&h=400&fit=crop",
