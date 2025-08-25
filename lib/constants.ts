@@ -32,7 +32,7 @@ export const TEAM_MEMBERS = [
     role: "Tutora e Mentora",
     avatarUrl: "https://github.com/SabrinaOtoni.png?auto=compress&cs=tinysrgb&w=400&h=400&fit=crop",
     github: "https://github.com/SabrinaOtoni",
-    linkedin: "https://linkedin.com/in/SabrinaOtoni",
+    linkedin: "https://www.linkedin.com/in/sabrina-otoni-22525519b/",
   },
   {
     name: "Henrique Silva",
@@ -102,6 +102,20 @@ export const TEAM_MEMBERS = [
     avatarUrl: "https://github.com/LaisaCCAndrade.png?auto=compress&cs=tinysrgb&w=400&h=400&fit=crop",
     github: "https://github.com/LaisaCCAndrade",
     linkedin: "https://www.linkedin.com/in/laisa-c-c-andrade/",
+  },
+  {
+    name: "Gabriel Santos",
+    role: "Desenvolvedor Full Stack",
+    avatarUrl: "./gabisantos.jpeg?auto=compress&cs=tinysrgb&w=400&h=400&fit=crop",
+    github: "https://github.com/gabrielsantos2000",
+    linkedin: "https://www.linkedin.com/in/gabriel-oliveira-b6353a16b/",
+  },
+  {
+    name: "Sabrina Pereira",
+    role: "Desenvolvedor Full Stack",
+    avatarUrl: "./sabrina.jpeg?auto=compress&cs=tinysrgb&w=400&h=400&fit=crop",
+    github: "https://github.com/sabrinasanhtos",
+    linkedin: "https://www.linkedin.com/in/sabrina-santos-78870524/",
   },
   {
     name: "Codex GPT",
