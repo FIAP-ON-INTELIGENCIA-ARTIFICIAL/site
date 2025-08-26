@@ -132,6 +132,12 @@ export const TEAM_MEMBERS = [
     linkedin: "https://www.linkedin.com/in/rodrigo-frederico-lucena-moreira-7b608134a/",
   },
   {
+    name: "Jonathan Gomes",
+    role: "Desenvolvedor Full Stack",
+    avatarUrl: "./jonathan.jpeg?auto=compress&cs=tinysrgb&w=400&h=400&fit=crop",
+    linkedin: "https://www.linkedin.com/in/jonathan-gomes-295b17223/",
+  },
+  {
     name: "Codex GPT",
     role: "Agente de engenharia de software",
     avatarUrl: "./codex.png?auto=compress&cs=tinysrgb&w=400&h=400&fit=crop",
