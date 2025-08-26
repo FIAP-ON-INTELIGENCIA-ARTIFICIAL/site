@@ -145,6 +145,13 @@ export const TEAM_MEMBERS = [
     linkedin: "https://www.linkedin.com/in/victorcopque/",
   },
   {
+    name: "Caroline Correa",
+    role: "Desenvolvedor Full Stack",
+    avatarUrl: "./caroline.jpeg?auto=compress&cs=tinysrgb&w=400&h=400&fit=crop",
+    github: "https://github.com/carolineccorrea",
+    linkedin: "https://www.linkedin.com/in/carolinedccorrea/",
+  },
+  {
     name: "Codex GPT",
     role: "Agente de engenharia de software",
     avatarUrl: "./codex.png?auto=compress&cs=tinysrgb&w=400&h=400&fit=crop",
