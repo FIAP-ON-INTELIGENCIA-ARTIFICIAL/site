@@ -138,6 +138,13 @@ export const TEAM_MEMBERS = [
     linkedin: "https://www.linkedin.com/in/jonathan-gomes-295b17223/",
   },
   {
+    name: "Victor Copque",
+    role: "Desenvolvedor Full Stack",
+    avatarUrl: "https://github.com/victorcopque.png?auto=compress&cs=tinysrgb&w=400&h=400&fit=crop",
+    github: "https://github.com/victorcopque",
+    linkedin: "https://www.linkedin.com/in/victorcopque/",
+  },
+  {
     name: "Codex GPT",
     role: "Agente de engenharia de software",
     avatarUrl: "./codex.png?auto=compress&cs=tinysrgb&w=400&h=400&fit=crop",
