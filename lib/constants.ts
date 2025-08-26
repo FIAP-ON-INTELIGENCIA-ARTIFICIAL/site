@@ -25,7 +25,8 @@ export const TEAM_MEMBERS = [
     name: "Ana Cristina",
     role: "Tutora e Mentora",
     avatarUrl: "https://github.com/anacrissantos.png?auto=compress&cs=tinysrgb&w=400&h=400&fit=crop",
-    github: "https://github.com/anacrissantos"
+    github: "https://github.com/anacrissantos",
+    linkedin: "https://www.linkedin.com/in/anacristinadossantos/"
   },
   {
     name: "Sabrina Otoni",
