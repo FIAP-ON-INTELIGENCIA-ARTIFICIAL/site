@@ -26,14 +26,12 @@ export default function Hero() {
         }`}
       >
         {/* Logo */}
-        <div className="mb-8 flex justify-center">
-          <div className="w-40 h-40 bg-gradient-to-br from-primary to-secondary rounded-2xl flex items-center justify-center shadow-lg hover:shadow-xl transition-shadow duration-300">
-            <img
-              src="./logo.png"
-              alt="Logo AdaTuring"
-              className="w-64 h-64 object-contain"
-            />
-          </div>
+        <div className="mb-8 flex justify-center">          
+          <img
+            src="./logo.png"
+            alt="Logo AdaTuring"
+            className="w-66 h-96 object-contain"
+          />          
         </div>
 
         {/* Descrição */}
